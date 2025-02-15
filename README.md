@@ -6,5 +6,6 @@ TAB - clear world ||
 Left mouse - spawn cell ||
 Right mouse - delete cell ||
 Numpad (from 1 to 5) - change cells ||
-Space - pause ||
+P - pause ||
 G - spawn movable player (A and D keys) ||
+F - toggle fullscreen mode
