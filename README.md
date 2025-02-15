@@ -9,3 +9,7 @@ Numpad (from 1 to 5) - change cells ||
 P - pause ||
 G - spawn movable player (A and D keys) ||
 F - toggle fullscreen mode
+
+
+Downloading:
+download .zip file from releases, then unzip it to some folder and run "papi.exe"
